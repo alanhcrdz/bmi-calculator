@@ -10,6 +10,7 @@ BMI is the measure of body fat, based on your height and weight, so it applies t
 
 ## Design Preview:
 ![Preview](./assets/art.png)
+![Gif](./assets/gif-bmi.gif)
 
 ## How to Load this App 👣
 
@@ -27,7 +28,7 @@ npm start
 ```
 <i>devolped by alanhcrdz</i>
 
-Merry Christmas! 🎄
+Merry Christmas!🎄
 
 
 
